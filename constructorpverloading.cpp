@@ -17,3 +17,9 @@ class mahasiswa{
 mahasiswa :: mahasiswa(){   
 }
 
+mahasiswa :: mahasiswa(int iNim){
+    nama = iNim; // definisi hanya NIM
+    
+}
+
+
