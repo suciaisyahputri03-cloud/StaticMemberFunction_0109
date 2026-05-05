@@ -22,4 +22,7 @@ mahasiswa :: mahasiswa(int iNim){
     
 }
 
+mahasiswa :: mahasiswa(string iNama){
+    nama = iNama; // definisi hanya NAMA
+}
 
